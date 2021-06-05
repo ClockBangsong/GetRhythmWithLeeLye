@@ -3,11 +3,11 @@ cls
 if EXIST "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}" goto UNLOCK
 goto LOCK
 :LOCK
-ren Images "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}"
+ren Songs "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}"
 attrib +h +s "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}"
 goto End
 :UNLOCK
 attrib -h -s "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}"
-ren "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}" Images
+ren "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}" Songs
 goto End
 :End
