@@ -14,7 +14,7 @@ https://youtu.be/CmhNl4p5exM
 
 제작 : 중앙대학교 소프트웨어학부 21학번 김도엽
 
-Vocal & Lylics : 리례LeeLye https://www.youtube.com/channel/UC_3JMBxAq5_fybTbBvYoveQ/
+Vocal & Lyics : 리례LeeLye https://www.youtube.com/channel/UC_3JMBxAq5_fybTbBvYoveQ/
 
 Mix :
 
