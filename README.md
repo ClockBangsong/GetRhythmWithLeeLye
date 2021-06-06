@@ -14,12 +14,18 @@ https://youtu.be/CmhNl4p5exM
 
 제작 : 중앙대학교 소프트웨어학부 21학번 김도엽
 
-Vocal & Lylics : 리례LeeLye 
+Vocal & Lylics : 리례LeeLye https://www.youtube.com/channel/UC_3JMBxAq5_fybTbBvYoveQ/
 
-Mix : LentLiy - Mix : LyuU
+Mix :
+
+      LentLiy - Mix : LyuU
+
       봉선화 - Mix : MixMaster
+      
       애매 - Mix : 단휴이
+      
       해피엔드인트로 - Mix : 나츠
+      
       사쿠란보 - Mix : Taito.P
 
 Icons made by Freepik from https://www.flaticon.com/
